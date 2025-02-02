@@ -18,6 +18,7 @@ public class Main {
 
         departmentDepartment.addEmploee(fullTimeEmploy1);
         departmentDepartment.addEmploee(fullTimeEmploy2);
+
         departmentDepartment.addEmploee(student1);
 
         System.out.println(BasePerson.getEmployNumber());
