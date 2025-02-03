@@ -15,6 +15,7 @@ public class Main {
         BasePerson student1 = new StudentEmploy("Peter", "Ivanov", 25, fullTimeEmploy1);
 
 
+
         Department departmentDepartment = new Department("Developement");
 
         departmentDepartment.addEmploee(fullTimeEmploy1);
