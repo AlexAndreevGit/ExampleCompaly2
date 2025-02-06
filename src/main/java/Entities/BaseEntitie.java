@@ -4,4 +4,5 @@ public class BaseEntitie {
 
     private Long id;
 
+//сссс
 }
